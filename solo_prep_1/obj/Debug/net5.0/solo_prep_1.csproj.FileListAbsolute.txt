@@ -1,0 +1,16 @@
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\bin\Debug\net5.0\solo_prep_1.exe
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\bin\Debug\net5.0\solo_prep_1.deps.json
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\bin\Debug\net5.0\solo_prep_1.runtimeconfig.json
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\bin\Debug\net5.0\solo_prep_1.runtimeconfig.dev.json
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\bin\Debug\net5.0\solo_prep_1.dll
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\bin\Debug\net5.0\ref\solo_prep_1.dll
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\bin\Debug\net5.0\solo_prep_1.pdb
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\solo_prep_1.csproj.AssemblyReference.cache
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\solo_prep_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\solo_prep_1.AssemblyInfoInputs.cache
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\solo_prep_1.AssemblyInfo.cs
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\solo_prep_1.csproj.CoreCompileInputs.cache
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\solo_prep_1.dll
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\ref\solo_prep_1.dll
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\solo_prep_1.pdb
+C:\Users\chauy\OneDrive - BYU-Idaho\Spring 2022\CSE 210-16\solo_prep_1\obj\Debug\net5.0\solo_prep_1.genruntimeconfig.cache
